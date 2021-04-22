@@ -3,7 +3,7 @@
  * @param {object} obj - an object with properties that are strings
  * @returns {object} - a copy of the object with strings trimmed
  *
- * EXAMPLE
+ * EXAMPLE okay hi lol whats good
  * trimProperties({ name: '  jane  ' }) // returns a new object { name: 'jane' }
  */
 function trimProperties(obj) {
